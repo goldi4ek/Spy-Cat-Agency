@@ -5,7 +5,7 @@ API for controlling the Spy Cats.
 **To clone the project, run the following commands in your terminal:**
 
 ```bash
-git clone https://github.com/goldi4ek/SPY-CAT-AGENCY.git
+git clone https://github.com/goldi4ek/Spy-Cat-Agency
 
 cd SPY-CAT-AGENCY
 ```
